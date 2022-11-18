@@ -1,7 +1,7 @@
 # Eduford
-- A university education website built with ``html`` ``css`` and ``javascript``
+- A university educational website built with ``html`` ``css`` and ``javascript``
     
-    - Live Link :: [Go Live]()
+    - Live Link :: [Go Live](https://iamnaeto.github.io/eduford/)
 
 ## Author: Charles Obimnaeto Egesionu ##
 
